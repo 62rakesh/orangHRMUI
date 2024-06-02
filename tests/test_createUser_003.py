@@ -4,6 +4,7 @@ from pages.adminCreateUser import createUser
 from pages.loginPage import LoginPage
 from utilities.readProperties import readConfig
 from testData.constants import Data
+from utilities.customLogger import LogGen
 
 
 @pytest.mark.usefixtures("setup_teardown")

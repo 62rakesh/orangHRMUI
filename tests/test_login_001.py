@@ -1,5 +1,6 @@
 from pytest import mark
 import pytest
+import allure
 import time
 from pages.loginPage import LoginPage
 from utilities.readProperties import readConfig
@@ -8,6 +9,8 @@ from utilities.readProperties import readConfig
 @pytest.mark.usefixtures("setup_teardown")
 class TestLogin_001:
     @mark.sanity_Test_1
+    @allure.description("Validate user login with valid credentials")
+    @allure.severity(severity_level="NORMAL")
     def test_login_with_valid_credentials(self):
         login = LoginPage(self.driver)
         login.enter_username(readConfig().getuserName())
