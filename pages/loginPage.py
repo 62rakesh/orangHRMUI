@@ -4,8 +4,10 @@ from selenium.webdriver.common.by import By
 from pages.locators import Locators
 from utilities.customLogger import LogGen
 
+
 class LoginPage:
     logs = LogGen.generateLog()
+
     def __init__(self, driver):
         # driver = webdriver.Chrome()
         self.driver = driver
@@ -86,10 +88,3 @@ class LoginPage:
         self.driver.switch_to.window(parent_window)
         self.logs.info("user navigates to the parent window")
         time.sleep(2)
-
-
-
-
-
-
-

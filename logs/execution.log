@@ -1,0 +1,1192 @@
+03:06:24 11::33::56 PM: INFO: loginPage: enter_username: user name verification started
+03:06:24 11::33::56 PM: INFO: loginPage: enter_username: user name verification started
+03:06:24 11::33::58 PM: INFO: loginPage: enter_username: user clicked on the username field
+03:06:24 11::33::58 PM: INFO: loginPage: enter_username: user clicked on the username field
+03:06:24 11::33::58 PM: INFO: loginPage: enter_username: enter the username
+03:06:24 11::33::58 PM: INFO: loginPage: enter_username: enter the username
+03:06:24 11::33::58 PM: INFO: loginPage: enter_password: password verification is started
+03:06:24 11::33::58 PM: INFO: loginPage: enter_password: password verification is started
+03:06:24 11::33::58 PM: INFO: loginPage: enter_password: enter a valid password
+03:06:24 11::33::58 PM: INFO: loginPage: enter_password: enter a valid password
+03:06:24 11::33::58 PM: INFO: loginPage: click_loginBtn: click on the login button
+03:06:24 11::33::58 PM: INFO: loginPage: click_loginBtn: click on the login button
+03:06:24 11::34::05 PM: INFO: recruitmentTableVerification: recruitment_page_validation: recruitment page navigation is started
+03:06:24 11::34::05 PM: INFO: recruitmentTableVerification: recruitment_page_validation: recruitment page navigation is started
+03:06:24 11::34::45 PM: INFO: loginPage: enter_username: user name verification started
+03:06:24 11::34::45 PM: INFO: loginPage: enter_username: user name verification started
+03:06:24 11::34::45 PM: INFO: loginPage: enter_username: user clicked on the username field
+03:06:24 11::34::45 PM: INFO: loginPage: enter_username: user clicked on the username field
+03:06:24 11::34::45 PM: INFO: loginPage: enter_username: enter the username
+03:06:24 11::34::45 PM: INFO: loginPage: enter_username: enter the username
+03:06:24 11::34::45 PM: INFO: loginPage: enter_password: password verification is started
+03:06:24 11::34::45 PM: INFO: loginPage: enter_password: password verification is started
+03:06:24 11::34::45 PM: INFO: loginPage: enter_password: enter a valid password
+03:06:24 11::34::45 PM: INFO: loginPage: enter_password: enter a valid password
+03:06:24 11::34::47 PM: INFO: loginPage: click_loginBtn: click on the login button
+03:06:24 11::34::47 PM: INFO: loginPage: click_loginBtn: click on the login button
+03:06:24 11::34::52 PM: INFO: recruitmentTableVerification: recruitment_page_validation: recruitment page navigation is started
+03:06:24 11::34::52 PM: INFO: recruitmentTableVerification: recruitment_page_validation: recruitment page navigation is started
+03:06:24 11::34::54 PM: INFO: recruitmentTableVerification: recruitment_page_validation: user navigates to the recruitment page
+03:06:24 11::34::54 PM: INFO: recruitmentTableVerification: recruitment_page_validation: user navigates to the recruitment page
+03:06:24 11::34::54 PM: INFO: recruitmentTableVerification: recruitment_page_validation: select the vacancies tab
+03:06:24 11::34::54 PM: INFO: recruitmentTableVerification: recruitment_page_validation: select the vacancies tab
+03:06:24 11::34::57 PM: INFO: recruitmentTableVerification: recruitment_page_validation: the job title is displayed
+03:06:24 11::34::57 PM: INFO: recruitmentTableVerification: recruitment_page_validation: the job title is displayed
+03:06:24 11::34::57 PM: INFO: recruitmentTableVerification: recruitment_page_validation: table data is Vacancy
+Job Title
+Hiring Manager
+Status
+Actions
+IOS Developer
+Automaton Tester
+Joseph Evans
+Active
+Junior Account Assistant
+Account Assistant
+(Deleted)
+Active
+Payroll Administrator
+Payroll Administrator
+Mahmoud Ahmed
+Active
+Sales Representative
+Sales Representative
+(Deleted)
+Active
+Senior QA Lead
+QA Lead
+(Deleted)
+Active
+Senior Support Specialist
+Support Specialist
+(Deleted)
+Active
+Software Engineer
+Software Engineer
+(Deleted)
+Active
+test
+Account Assistant
+Rahul Patil
+Active
+Test Job
+Automaton Tester
+Rahul Das
+Active
+03:06:24 11::34::57 PM: INFO: recruitmentTableVerification: recruitment_page_validation: table data is Vacancy
+Job Title
+Hiring Manager
+Status
+Actions
+IOS Developer
+Automaton Tester
+Joseph Evans
+Active
+Junior Account Assistant
+Account Assistant
+(Deleted)
+Active
+Payroll Administrator
+Payroll Administrator
+Mahmoud Ahmed
+Active
+Sales Representative
+Sales Representative
+(Deleted)
+Active
+Senior QA Lead
+QA Lead
+(Deleted)
+Active
+Senior Support Specialist
+Support Specialist
+(Deleted)
+Active
+Software Engineer
+Software Engineer
+(Deleted)
+Active
+test
+Account Assistant
+Rahul Patil
+Active
+Test Job
+Automaton Tester
+Rahul Das
+Active
+03:06:24 11::35::29 PM: INFO: loginPage: enter_username: user name verification started
+03:06:24 11::35::29 PM: INFO: loginPage: enter_username: user name verification started
+03:06:24 11::35::29 PM: INFO: loginPage: enter_username: user clicked on the username field
+03:06:24 11::35::29 PM: INFO: loginPage: enter_username: user clicked on the username field
+03:06:24 11::35::29 PM: INFO: loginPage: enter_username: enter the username
+03:06:24 11::35::29 PM: INFO: loginPage: enter_username: enter the username
+03:06:24 11::35::29 PM: INFO: loginPage: enter_password: password verification is started
+03:06:24 11::35::29 PM: INFO: loginPage: enter_password: password verification is started
+03:06:24 11::35::29 PM: INFO: loginPage: enter_password: enter a valid password
+03:06:24 11::35::29 PM: INFO: loginPage: enter_password: enter a valid password
+03:06:24 11::35::30 PM: INFO: loginPage: click_loginBtn: click on the login button
+03:06:24 11::35::30 PM: INFO: loginPage: click_loginBtn: click on the login button
+03:06:24 11::35::35 PM: INFO: recruitmentTableVerification: recruitment_page_validation: recruitment page navigation is started
+03:06:24 11::35::35 PM: INFO: recruitmentTableVerification: recruitment_page_validation: recruitment page navigation is started
+03:06:24 11::35::39 PM: INFO: recruitmentTableVerification: recruitment_page_validation: user navigates to the recruitment page
+03:06:24 11::35::39 PM: INFO: recruitmentTableVerification: recruitment_page_validation: user navigates to the recruitment page
+03:06:24 11::35::39 PM: INFO: recruitmentTableVerification: recruitment_page_validation: select the vacancies tab
+03:06:24 11::35::39 PM: INFO: recruitmentTableVerification: recruitment_page_validation: select the vacancies tab
+03:06:24 11::35::41 PM: INFO: recruitmentTableVerification: recruitment_page_validation: the job title is displayed
+03:06:24 11::35::41 PM: INFO: recruitmentTableVerification: recruitment_page_validation: the job title is displayed
+03:06:24 11::35::41 PM: INFO: recruitmentTableVerification: recruitment_page_validation: table data is Vacancy
+Job Title
+Hiring Manager
+Status
+Actions
+IOS Developer
+Automaton Tester
+Joseph Evans
+Active
+Junior Account Assistant
+Account Assistant
+(Deleted)
+Active
+Payroll Administrator
+Payroll Administrator
+Mahmoud Ahmed
+Active
+Sales Representative
+Sales Representative
+(Deleted)
+Active
+Senior QA Lead
+QA Lead
+(Deleted)
+Active
+Senior Support Specialist
+Support Specialist
+(Deleted)
+Active
+Software Engineer
+Software Engineer
+(Deleted)
+Active
+test
+Account Assistant
+Rahul Patil
+Active
+Test Job
+Automaton Tester
+Rahul Das
+Active
+03:06:24 11::35::41 PM: INFO: recruitmentTableVerification: recruitment_page_validation: table data is Vacancy
+Job Title
+Hiring Manager
+Status
+Actions
+IOS Developer
+Automaton Tester
+Joseph Evans
+Active
+Junior Account Assistant
+Account Assistant
+(Deleted)
+Active
+Payroll Administrator
+Payroll Administrator
+Mahmoud Ahmed
+Active
+Sales Representative
+Sales Representative
+(Deleted)
+Active
+Senior QA Lead
+QA Lead
+(Deleted)
+Active
+Senior Support Specialist
+Support Specialist
+(Deleted)
+Active
+Software Engineer
+Software Engineer
+(Deleted)
+Active
+test
+Account Assistant
+Rahul Patil
+Active
+Test Job
+Automaton Tester
+Rahul Das
+Active
+03:06:24 11::37::43 PM: INFO: loginPage: enter_username: user name verification started
+03:06:24 11::37::43 PM: INFO: loginPage: enter_username: user name verification started
+03:06:24 11::37::43 PM: INFO: loginPage: enter_username: user clicked on the username field
+03:06:24 11::37::43 PM: INFO: loginPage: enter_username: user clicked on the username field
+03:06:24 11::37::43 PM: INFO: loginPage: enter_username: enter the username
+03:06:24 11::37::43 PM: INFO: loginPage: enter_username: enter the username
+03:06:24 11::37::43 PM: INFO: loginPage: enter_password: password verification is started
+03:06:24 11::37::43 PM: INFO: loginPage: enter_password: password verification is started
+03:06:24 11::37::43 PM: INFO: loginPage: enter_password: enter a valid password
+03:06:24 11::37::43 PM: INFO: loginPage: enter_password: enter a valid password
+03:06:24 11::37::45 PM: INFO: loginPage: click_loginBtn: click on the login button
+03:06:24 11::37::45 PM: INFO: loginPage: click_loginBtn: click on the login button
+03:06:24 11::37::50 PM: INFO: recruitmentTableVerification: recruitment_page_validation: recruitment page navigation is started
+03:06:24 11::37::50 PM: INFO: recruitmentTableVerification: recruitment_page_validation: recruitment page navigation is started
+03:06:24 11::37::52 PM: INFO: recruitmentTableVerification: recruitment_page_validation: user navigates to the recruitment page
+03:06:24 11::37::52 PM: INFO: recruitmentTableVerification: recruitment_page_validation: user navigates to the recruitment page
+03:06:24 11::37::52 PM: INFO: recruitmentTableVerification: recruitment_page_validation: select the vacancies tab
+03:06:24 11::37::52 PM: INFO: recruitmentTableVerification: recruitment_page_validation: select the vacancies tab
+03:06:24 11::37::55 PM: INFO: recruitmentTableVerification: recruitment_page_validation: the job title is displayed
+03:06:24 11::37::55 PM: INFO: recruitmentTableVerification: recruitment_page_validation: the job title is displayed
+03:06:24 11::37::55 PM: INFO: recruitmentTableVerification: recruitment_page_validation: table data is Vacancy
+Job Title
+Hiring Manager
+Status
+Actions
+IOS Developer
+Automaton Tester
+Joseph Evans
+Active
+Junior Account Assistant
+Account Assistant
+(Deleted)
+Active
+Payroll Administrator
+Payroll Administrator
+Mahmoud Ahmed
+Active
+Sales Representative
+Sales Representative
+(Deleted)
+Active
+Senior QA Lead
+QA Lead
+(Deleted)
+Active
+Senior Support Specialist
+Support Specialist
+(Deleted)
+Active
+Software Engineer
+Software Engineer
+(Deleted)
+Active
+test
+Account Assistant
+Rahul Patil
+Active
+Test Job
+Automaton Tester
+Rahul Das
+Active
+03:06:24 11::37::55 PM: INFO: recruitmentTableVerification: recruitment_page_validation: table data is Vacancy
+Job Title
+Hiring Manager
+Status
+Actions
+IOS Developer
+Automaton Tester
+Joseph Evans
+Active
+Junior Account Assistant
+Account Assistant
+(Deleted)
+Active
+Payroll Administrator
+Payroll Administrator
+Mahmoud Ahmed
+Active
+Sales Representative
+Sales Representative
+(Deleted)
+Active
+Senior QA Lead
+QA Lead
+(Deleted)
+Active
+Senior Support Specialist
+Support Specialist
+(Deleted)
+Active
+Software Engineer
+Software Engineer
+(Deleted)
+Active
+test
+Account Assistant
+Rahul Patil
+Active
+Test Job
+Automaton Tester
+Rahul Das
+Active
+04:06:24 10::46::26 AM: INFO: loginPage: enter_username: user name verification started
+04:06:24 10::46::26 AM: INFO: loginPage: enter_username: user name verification started
+04:06:24 10::46::26 AM: INFO: loginPage: enter_username: user clicked on the username field
+04:06:24 10::46::26 AM: INFO: loginPage: enter_username: user clicked on the username field
+04:06:24 10::46::26 AM: INFO: loginPage: enter_username: enter the username
+04:06:24 10::46::26 AM: INFO: loginPage: enter_username: enter the username
+04:06:24 10::46::26 AM: INFO: loginPage: enter_password: password verification is started
+04:06:24 10::46::26 AM: INFO: loginPage: enter_password: password verification is started
+04:06:24 10::46::26 AM: INFO: loginPage: enter_password: enter a valid password
+04:06:24 10::46::26 AM: INFO: loginPage: enter_password: enter a valid password
+04:06:24 10::46::26 AM: INFO: loginPage: click_loginBtn: click on the login button
+04:06:24 10::46::26 AM: INFO: loginPage: click_loginBtn: click on the login button
+04:06:24 10::46::32 AM: INFO: recruitmentTableVerification: recruitment_page_validation: recruitment page navigation is started
+04:06:24 10::46::32 AM: INFO: recruitmentTableVerification: recruitment_page_validation: recruitment page navigation is started
+04:06:24 10::46::34 AM: INFO: recruitmentTableVerification: recruitment_page_validation: user navigates to the recruitment page
+04:06:24 10::46::34 AM: INFO: recruitmentTableVerification: recruitment_page_validation: user navigates to the recruitment page
+04:06:24 10::46::34 AM: INFO: recruitmentTableVerification: recruitment_page_validation: select the vacancies tab
+04:06:24 10::46::34 AM: INFO: recruitmentTableVerification: recruitment_page_validation: select the vacancies tab
+04:06:24 10::46::37 AM: INFO: recruitmentTableVerification: recruitment_page_validation: the job title is displayed
+04:06:24 10::46::37 AM: INFO: recruitmentTableVerification: recruitment_page_validation: the job title is displayed
+04:06:24 10::46::37 AM: INFO: recruitmentTableVerification: recruitment_page_validation: table data is Vacancy
+Job Title
+Hiring Manager
+Status
+Actions
+Junior Account Assistant
+Account Assistant
+(Deleted)
+Active
+Payroll Administrator
+Payroll Administrator
+manda user
+Active
+Sales Representative
+Sales Representative
+(Deleted)
+Active
+Senior QA Lead
+QA Lead
+(Deleted)
+Active
+Senior Support Specialist
+Support Specialist
+(Deleted)
+Active
+Software Engineer
+Software Engineer
+(Deleted)
+Active
+test
+Account Assistant
+Rahul Patil
+Active
+04:06:24 10::46::37 AM: INFO: recruitmentTableVerification: recruitment_page_validation: table data is Vacancy
+Job Title
+Hiring Manager
+Status
+Actions
+Junior Account Assistant
+Account Assistant
+(Deleted)
+Active
+Payroll Administrator
+Payroll Administrator
+manda user
+Active
+Sales Representative
+Sales Representative
+(Deleted)
+Active
+Senior QA Lead
+QA Lead
+(Deleted)
+Active
+Senior Support Specialist
+Support Specialist
+(Deleted)
+Active
+Software Engineer
+Software Engineer
+(Deleted)
+Active
+test
+Account Assistant
+Rahul Patil
+Active
+06:06:24 01::10::13 PM: INFO: loginPage: enter_username: user name verification started
+06:06:24 01::10::13 PM: INFO: loginPage: enter_username: user name verification started
+06:06:24 01::10::13 PM: INFO: loginPage: enter_username: user name verification started
+06:06:24 01::10::13 PM: INFO: loginPage: enter_username: user clicked on the username field
+06:06:24 01::10::13 PM: INFO: loginPage: enter_username: user clicked on the username field
+06:06:24 01::10::13 PM: INFO: loginPage: enter_username: user clicked on the username field
+06:06:24 01::10::13 PM: INFO: loginPage: enter_username: enter the username
+06:06:24 01::10::13 PM: INFO: loginPage: enter_username: enter the username
+06:06:24 01::10::13 PM: INFO: loginPage: enter_username: enter the username
+06:06:24 01::10::13 PM: INFO: loginPage: enter_password: password verification is started
+06:06:24 01::10::13 PM: INFO: loginPage: enter_password: password verification is started
+06:06:24 01::10::13 PM: INFO: loginPage: enter_password: password verification is started
+06:06:24 01::10::13 PM: INFO: loginPage: enter_password: enter a valid password
+06:06:24 01::10::13 PM: INFO: loginPage: enter_password: enter a valid password
+06:06:24 01::10::13 PM: INFO: loginPage: enter_password: enter a valid password
+06:06:24 01::10::14 PM: INFO: loginPage: click_loginBtn: click on the login button
+06:06:24 01::10::14 PM: INFO: loginPage: click_loginBtn: click on the login button
+06:06:24 01::10::14 PM: INFO: loginPage: click_loginBtn: click on the login button
+06:06:24 01::10::19 PM: INFO: EnmergencyContactDetails: navigate_to_myInfo_page: user profile verification started
+06:06:24 01::10::19 PM: INFO: EnmergencyContactDetails: navigate_to_myInfo_page: user profile verification started
+06:06:24 01::10::19 PM: INFO: EnmergencyContactDetails: navigate_to_myInfo_page: user profile verification started
+06:06:24 01::10::22 PM: INFO: EnmergencyContactDetails: navigate_to_myInfo_page: user navigates to the my profile page
+06:06:24 01::10::22 PM: INFO: EnmergencyContactDetails: navigate_to_myInfo_page: user navigates to the my profile page
+06:06:24 01::10::22 PM: INFO: EnmergencyContactDetails: navigate_to_myInfo_page: user navigates to the my profile page
+06:06:24 01::10::22 PM: INFO: EnmergencyContactDetails: emergencyContact_verification: emergency contact verification is started
+06:06:24 01::10::22 PM: INFO: EnmergencyContactDetails: emergencyContact_verification: emergency contact verification is started
+06:06:24 01::10::22 PM: INFO: EnmergencyContactDetails: emergencyContact_verification: emergency contact verification is started
+06:06:24 01::10::25 PM: INFO: EnmergencyContactDetails: emergencyContact_verification: user navigates to the emergency contact tab
+06:06:24 01::10::25 PM: INFO: EnmergencyContactDetails: emergencyContact_verification: user navigates to the emergency contact tab
+06:06:24 01::10::25 PM: INFO: EnmergencyContactDetails: emergencyContact_verification: user navigates to the emergency contact tab
+06:06:24 01::10::25 PM: INFO: EnmergencyContactDetails: addEmenrgecyContactUserDetails: add emergency contact information
+06:06:24 01::10::25 PM: INFO: EnmergencyContactDetails: addEmenrgecyContactUserDetails: add emergency contact information
+06:06:24 01::10::25 PM: INFO: EnmergencyContactDetails: addEmenrgecyContactUserDetails: add emergency contact information
+06:06:24 01::10::26 PM: INFO: EnmergencyContactDetails: addEmenrgecyContactUserDetails: click on the add button
+06:06:24 01::10::26 PM: INFO: EnmergencyContactDetails: addEmenrgecyContactUserDetails: click on the add button
+06:06:24 01::10::26 PM: INFO: EnmergencyContactDetails: addEmenrgecyContactUserDetails: click on the add button
+06:06:24 01::10::26 PM: INFO: EnmergencyContactDetails: addEmenrgecyContactUserDetails: emergency contact person name is: Sanju
+06:06:24 01::10::26 PM: INFO: EnmergencyContactDetails: addEmenrgecyContactUserDetails: emergency contact person name is: Sanju
+06:06:24 01::10::26 PM: INFO: EnmergencyContactDetails: addEmenrgecyContactUserDetails: emergency contact person name is: Sanju
+06:06:24 01::10::27 PM: INFO: EnmergencyContactDetails: addEmenrgecyContactUserDetails: relation is wife
+06:06:24 01::10::27 PM: INFO: EnmergencyContactDetails: addEmenrgecyContactUserDetails: relation is wife
+06:06:24 01::10::27 PM: INFO: EnmergencyContactDetails: addEmenrgecyContactUserDetails: relation is wife
+06:06:24 01::10::27 PM: INFO: EnmergencyContactDetails: addEmenrgecyContactUserDetails: Emergency contact number is 1234567890
+06:06:24 01::10::27 PM: INFO: EnmergencyContactDetails: addEmenrgecyContactUserDetails: Emergency contact number is 1234567890
+06:06:24 01::10::27 PM: INFO: EnmergencyContactDetails: addEmenrgecyContactUserDetails: Emergency contact number is 1234567890
+06:06:24 01::10::30 PM: INFO: EnmergencyContactDetails: upload_emergencyContact_details: upload an attachment of emergency contact details
+06:06:24 01::10::30 PM: INFO: EnmergencyContactDetails: upload_emergencyContact_details: upload an attachment of emergency contact details
+06:06:24 01::10::30 PM: INFO: EnmergencyContactDetails: upload_emergencyContact_details: upload an attachment of emergency contact details
+06:06:24 01::12::48 PM: INFO: loginPage: enter_username: user name verification started
+06:06:24 01::12::48 PM: INFO: loginPage: enter_username: user name verification started
+06:06:24 01::12::48 PM: INFO: loginPage: enter_username: user name verification started
+06:06:24 01::12::49 PM: INFO: loginPage: enter_username: user clicked on the username field
+06:06:24 01::12::49 PM: INFO: loginPage: enter_username: user clicked on the username field
+06:06:24 01::12::49 PM: INFO: loginPage: enter_username: user clicked on the username field
+06:06:24 01::12::49 PM: INFO: loginPage: enter_username: enter the username
+06:06:24 01::12::49 PM: INFO: loginPage: enter_username: enter the username
+06:06:24 01::12::49 PM: INFO: loginPage: enter_username: enter the username
+06:06:24 01::12::49 PM: INFO: loginPage: enter_password: password verification is started
+06:06:24 01::12::49 PM: INFO: loginPage: enter_password: password verification is started
+06:06:24 01::12::49 PM: INFO: loginPage: enter_password: password verification is started
+06:06:24 01::12::49 PM: INFO: loginPage: enter_password: enter a valid password
+06:06:24 01::12::49 PM: INFO: loginPage: enter_password: enter a valid password
+06:06:24 01::12::49 PM: INFO: loginPage: enter_password: enter a valid password
+06:06:24 01::12::50 PM: INFO: loginPage: click_loginBtn: click on the login button
+06:06:24 01::12::50 PM: INFO: loginPage: click_loginBtn: click on the login button
+06:06:24 01::12::50 PM: INFO: loginPage: click_loginBtn: click on the login button
+06:06:24 01::12::55 PM: INFO: EnmergencyContactDetails: navigate_to_myInfo_page: user profile verification started
+06:06:24 01::12::55 PM: INFO: EnmergencyContactDetails: navigate_to_myInfo_page: user profile verification started
+06:06:24 01::12::55 PM: INFO: EnmergencyContactDetails: navigate_to_myInfo_page: user profile verification started
+06:06:24 01::12::58 PM: INFO: EnmergencyContactDetails: navigate_to_myInfo_page: user navigates to the my profile page
+06:06:24 01::12::58 PM: INFO: EnmergencyContactDetails: navigate_to_myInfo_page: user navigates to the my profile page
+06:06:24 01::12::58 PM: INFO: EnmergencyContactDetails: navigate_to_myInfo_page: user navigates to the my profile page
+06:06:24 01::12::58 PM: INFO: EnmergencyContactDetails: emergencyContact_verification: emergency contact verification is started
+06:06:24 01::12::58 PM: INFO: EnmergencyContactDetails: emergencyContact_verification: emergency contact verification is started
+06:06:24 01::12::58 PM: INFO: EnmergencyContactDetails: emergencyContact_verification: emergency contact verification is started
+06:06:24 01::13::01 PM: INFO: EnmergencyContactDetails: emergencyContact_verification: user navigates to the emergency contact tab
+06:06:24 01::13::01 PM: INFO: EnmergencyContactDetails: emergencyContact_verification: user navigates to the emergency contact tab
+06:06:24 01::13::01 PM: INFO: EnmergencyContactDetails: emergencyContact_verification: user navigates to the emergency contact tab
+06:06:24 01::13::01 PM: INFO: EnmergencyContactDetails: addEmenrgecyContactUserDetails: add emergency contact information
+06:06:24 01::13::01 PM: INFO: EnmergencyContactDetails: addEmenrgecyContactUserDetails: add emergency contact information
+06:06:24 01::13::01 PM: INFO: EnmergencyContactDetails: addEmenrgecyContactUserDetails: add emergency contact information
+06:06:24 01::13::02 PM: INFO: EnmergencyContactDetails: addEmenrgecyContactUserDetails: click on the add button
+06:06:24 01::13::02 PM: INFO: EnmergencyContactDetails: addEmenrgecyContactUserDetails: click on the add button
+06:06:24 01::13::02 PM: INFO: EnmergencyContactDetails: addEmenrgecyContactUserDetails: click on the add button
+06:06:24 01::13::03 PM: INFO: EnmergencyContactDetails: addEmenrgecyContactUserDetails: emergency contact person name is: Sanju
+06:06:24 01::13::03 PM: INFO: EnmergencyContactDetails: addEmenrgecyContactUserDetails: emergency contact person name is: Sanju
+06:06:24 01::13::03 PM: INFO: EnmergencyContactDetails: addEmenrgecyContactUserDetails: emergency contact person name is: Sanju
+06:06:24 01::13::04 PM: INFO: EnmergencyContactDetails: addEmenrgecyContactUserDetails: relation is wife
+06:06:24 01::13::04 PM: INFO: EnmergencyContactDetails: addEmenrgecyContactUserDetails: relation is wife
+06:06:24 01::13::04 PM: INFO: EnmergencyContactDetails: addEmenrgecyContactUserDetails: relation is wife
+06:06:24 01::13::04 PM: INFO: EnmergencyContactDetails: addEmenrgecyContactUserDetails: Emergency contact number is 1234567890
+06:06:24 01::13::04 PM: INFO: EnmergencyContactDetails: addEmenrgecyContactUserDetails: Emergency contact number is 1234567890
+06:06:24 01::13::04 PM: INFO: EnmergencyContactDetails: addEmenrgecyContactUserDetails: Emergency contact number is 1234567890
+06:06:24 01::13::07 PM: INFO: EnmergencyContactDetails: upload_emergencyContact_details: upload an attachment of emergency contact details
+06:06:24 01::13::07 PM: INFO: EnmergencyContactDetails: upload_emergencyContact_details: upload an attachment of emergency contact details
+06:06:24 01::13::07 PM: INFO: EnmergencyContactDetails: upload_emergencyContact_details: upload an attachment of emergency contact details
+06:06:24 01::15::03 PM: INFO: loginPage: enter_username: user name verification started
+06:06:24 01::15::03 PM: INFO: loginPage: enter_username: user name verification started
+06:06:24 01::15::03 PM: INFO: loginPage: enter_username: user name verification started
+06:06:24 01::15::03 PM: INFO: loginPage: enter_username: user clicked on the username field
+06:06:24 01::15::03 PM: INFO: loginPage: enter_username: user clicked on the username field
+06:06:24 01::15::03 PM: INFO: loginPage: enter_username: user clicked on the username field
+06:06:24 01::15::03 PM: INFO: loginPage: enter_username: enter the username
+06:06:24 01::15::03 PM: INFO: loginPage: enter_username: enter the username
+06:06:24 01::15::03 PM: INFO: loginPage: enter_username: enter the username
+06:06:24 01::15::03 PM: INFO: loginPage: enter_password: password verification is started
+06:06:24 01::15::03 PM: INFO: loginPage: enter_password: password verification is started
+06:06:24 01::15::03 PM: INFO: loginPage: enter_password: password verification is started
+06:06:24 01::15::03 PM: INFO: loginPage: enter_password: enter a valid password
+06:06:24 01::15::03 PM: INFO: loginPage: enter_password: enter a valid password
+06:06:24 01::15::03 PM: INFO: loginPage: enter_password: enter a valid password
+06:06:24 01::15::05 PM: INFO: loginPage: click_loginBtn: click on the login button
+06:06:24 01::15::05 PM: INFO: loginPage: click_loginBtn: click on the login button
+06:06:24 01::15::05 PM: INFO: loginPage: click_loginBtn: click on the login button
+06:06:24 01::15::10 PM: INFO: EnmergencyContactDetails: navigate_to_myInfo_page: user profile verification started
+06:06:24 01::15::10 PM: INFO: EnmergencyContactDetails: navigate_to_myInfo_page: user profile verification started
+06:06:24 01::15::10 PM: INFO: EnmergencyContactDetails: navigate_to_myInfo_page: user profile verification started
+06:06:24 01::15::13 PM: INFO: EnmergencyContactDetails: navigate_to_myInfo_page: user navigates to the my profile page
+06:06:24 01::15::13 PM: INFO: EnmergencyContactDetails: navigate_to_myInfo_page: user navigates to the my profile page
+06:06:24 01::15::13 PM: INFO: EnmergencyContactDetails: navigate_to_myInfo_page: user navigates to the my profile page
+06:06:24 01::15::13 PM: INFO: EnmergencyContactDetails: emergencyContact_verification: emergency contact verification is started
+06:06:24 01::15::13 PM: INFO: EnmergencyContactDetails: emergencyContact_verification: emergency contact verification is started
+06:06:24 01::15::13 PM: INFO: EnmergencyContactDetails: emergencyContact_verification: emergency contact verification is started
+06:06:24 01::15::16 PM: INFO: EnmergencyContactDetails: emergencyContact_verification: user navigates to the emergency contact tab
+06:06:24 01::15::16 PM: INFO: EnmergencyContactDetails: emergencyContact_verification: user navigates to the emergency contact tab
+06:06:24 01::15::16 PM: INFO: EnmergencyContactDetails: emergencyContact_verification: user navigates to the emergency contact tab
+06:06:24 01::15::16 PM: INFO: EnmergencyContactDetails: addEmenrgecyContactUserDetails: add emergency contact information
+06:06:24 01::15::16 PM: INFO: EnmergencyContactDetails: addEmenrgecyContactUserDetails: add emergency contact information
+06:06:24 01::15::16 PM: INFO: EnmergencyContactDetails: addEmenrgecyContactUserDetails: add emergency contact information
+06:06:24 01::15::17 PM: INFO: EnmergencyContactDetails: addEmenrgecyContactUserDetails: click on the add button
+06:06:24 01::15::17 PM: INFO: EnmergencyContactDetails: addEmenrgecyContactUserDetails: click on the add button
+06:06:24 01::15::17 PM: INFO: EnmergencyContactDetails: addEmenrgecyContactUserDetails: click on the add button
+06:06:24 01::15::17 PM: INFO: EnmergencyContactDetails: addEmenrgecyContactUserDetails: emergency contact person name is: Sanju
+06:06:24 01::15::17 PM: INFO: EnmergencyContactDetails: addEmenrgecyContactUserDetails: emergency contact person name is: Sanju
+06:06:24 01::15::17 PM: INFO: EnmergencyContactDetails: addEmenrgecyContactUserDetails: emergency contact person name is: Sanju
+06:06:24 01::15::18 PM: INFO: EnmergencyContactDetails: addEmenrgecyContactUserDetails: relation is wife
+06:06:24 01::15::18 PM: INFO: EnmergencyContactDetails: addEmenrgecyContactUserDetails: relation is wife
+06:06:24 01::15::18 PM: INFO: EnmergencyContactDetails: addEmenrgecyContactUserDetails: relation is wife
+06:06:24 01::15::19 PM: INFO: EnmergencyContactDetails: addEmenrgecyContactUserDetails: Emergency contact number is 1234567890
+06:06:24 01::15::19 PM: INFO: EnmergencyContactDetails: addEmenrgecyContactUserDetails: Emergency contact number is 1234567890
+06:06:24 01::15::19 PM: INFO: EnmergencyContactDetails: addEmenrgecyContactUserDetails: Emergency contact number is 1234567890
+06:06:24 01::15::22 PM: INFO: EnmergencyContactDetails: upload_emergencyContact_details: upload an attachment of emergency contact details
+06:06:24 01::15::22 PM: INFO: EnmergencyContactDetails: upload_emergencyContact_details: upload an attachment of emergency contact details
+06:06:24 01::15::22 PM: INFO: EnmergencyContactDetails: upload_emergencyContact_details: upload an attachment of emergency contact details
+06:06:24 01::16::35 PM: INFO: loginPage: enter_username: user name verification started
+06:06:24 01::16::35 PM: INFO: loginPage: enter_username: user name verification started
+06:06:24 01::16::35 PM: INFO: loginPage: enter_username: user name verification started
+06:06:24 01::16::35 PM: INFO: loginPage: enter_username: user clicked on the username field
+06:06:24 01::16::35 PM: INFO: loginPage: enter_username: user clicked on the username field
+06:06:24 01::16::35 PM: INFO: loginPage: enter_username: user clicked on the username field
+06:06:24 01::16::35 PM: INFO: loginPage: enter_username: enter the username
+06:06:24 01::16::35 PM: INFO: loginPage: enter_username: enter the username
+06:06:24 01::16::35 PM: INFO: loginPage: enter_username: enter the username
+06:06:24 01::16::35 PM: INFO: loginPage: enter_password: password verification is started
+06:06:24 01::16::35 PM: INFO: loginPage: enter_password: password verification is started
+06:06:24 01::16::35 PM: INFO: loginPage: enter_password: password verification is started
+06:06:24 01::16::35 PM: INFO: loginPage: enter_password: enter a valid password
+06:06:24 01::16::35 PM: INFO: loginPage: enter_password: enter a valid password
+06:06:24 01::16::35 PM: INFO: loginPage: enter_password: enter a valid password
+06:06:24 01::16::37 PM: INFO: loginPage: click_loginBtn: click on the login button
+06:06:24 01::16::37 PM: INFO: loginPage: click_loginBtn: click on the login button
+06:06:24 01::16::37 PM: INFO: loginPage: click_loginBtn: click on the login button
+06:06:24 01::16::42 PM: INFO: EnmergencyContactDetails: navigate_to_myInfo_page: user profile verification started
+06:06:24 01::16::42 PM: INFO: EnmergencyContactDetails: navigate_to_myInfo_page: user profile verification started
+06:06:24 01::16::42 PM: INFO: EnmergencyContactDetails: navigate_to_myInfo_page: user profile verification started
+06:06:24 01::16::45 PM: INFO: EnmergencyContactDetails: navigate_to_myInfo_page: user navigates to the my profile page
+06:06:24 01::16::45 PM: INFO: EnmergencyContactDetails: navigate_to_myInfo_page: user navigates to the my profile page
+06:06:24 01::16::45 PM: INFO: EnmergencyContactDetails: navigate_to_myInfo_page: user navigates to the my profile page
+06:06:24 01::16::45 PM: INFO: EnmergencyContactDetails: emergencyContact_verification: emergency contact verification is started
+06:06:24 01::16::45 PM: INFO: EnmergencyContactDetails: emergencyContact_verification: emergency contact verification is started
+06:06:24 01::16::45 PM: INFO: EnmergencyContactDetails: emergencyContact_verification: emergency contact verification is started
+06:06:24 01::16::47 PM: INFO: EnmergencyContactDetails: emergencyContact_verification: user navigates to the emergency contact tab
+06:06:24 01::16::47 PM: INFO: EnmergencyContactDetails: emergencyContact_verification: user navigates to the emergency contact tab
+06:06:24 01::16::47 PM: INFO: EnmergencyContactDetails: emergencyContact_verification: user navigates to the emergency contact tab
+06:06:24 01::16::47 PM: INFO: EnmergencyContactDetails: addEmenrgecyContactUserDetails: add emergency contact information
+06:06:24 01::16::47 PM: INFO: EnmergencyContactDetails: addEmenrgecyContactUserDetails: add emergency contact information
+06:06:24 01::16::47 PM: INFO: EnmergencyContactDetails: addEmenrgecyContactUserDetails: add emergency contact information
+06:06:24 01::16::48 PM: INFO: EnmergencyContactDetails: addEmenrgecyContactUserDetails: click on the add button
+06:06:24 01::16::48 PM: INFO: EnmergencyContactDetails: addEmenrgecyContactUserDetails: click on the add button
+06:06:24 01::16::48 PM: INFO: EnmergencyContactDetails: addEmenrgecyContactUserDetails: click on the add button
+06:06:24 01::16::48 PM: INFO: EnmergencyContactDetails: addEmenrgecyContactUserDetails: emergency contact person name is: Sanju
+06:06:24 01::16::48 PM: INFO: EnmergencyContactDetails: addEmenrgecyContactUserDetails: emergency contact person name is: Sanju
+06:06:24 01::16::48 PM: INFO: EnmergencyContactDetails: addEmenrgecyContactUserDetails: emergency contact person name is: Sanju
+06:06:24 01::16::50 PM: INFO: EnmergencyContactDetails: addEmenrgecyContactUserDetails: relation is wife
+06:06:24 01::16::50 PM: INFO: EnmergencyContactDetails: addEmenrgecyContactUserDetails: relation is wife
+06:06:24 01::16::50 PM: INFO: EnmergencyContactDetails: addEmenrgecyContactUserDetails: relation is wife
+06:06:24 01::16::50 PM: INFO: EnmergencyContactDetails: addEmenrgecyContactUserDetails: Emergency contact number is 1234567890
+06:06:24 01::16::50 PM: INFO: EnmergencyContactDetails: addEmenrgecyContactUserDetails: Emergency contact number is 1234567890
+06:06:24 01::16::50 PM: INFO: EnmergencyContactDetails: addEmenrgecyContactUserDetails: Emergency contact number is 1234567890
+06:06:24 01::16::53 PM: INFO: EnmergencyContactDetails: upload_emergencyContact_details: upload an attachment of emergency contact details
+06:06:24 01::16::53 PM: INFO: EnmergencyContactDetails: upload_emergencyContact_details: upload an attachment of emergency contact details
+06:06:24 01::16::53 PM: INFO: EnmergencyContactDetails: upload_emergencyContact_details: upload an attachment of emergency contact details
+06:06:24 01::17::59 PM: INFO: loginPage: enter_username: user name verification started
+06:06:24 01::17::59 PM: INFO: loginPage: enter_username: user name verification started
+06:06:24 01::17::59 PM: INFO: loginPage: enter_username: user name verification started
+06:06:24 01::17::59 PM: INFO: loginPage: enter_username: user clicked on the username field
+06:06:24 01::17::59 PM: INFO: loginPage: enter_username: user clicked on the username field
+06:06:24 01::17::59 PM: INFO: loginPage: enter_username: user clicked on the username field
+06:06:24 01::17::59 PM: INFO: loginPage: enter_username: enter the username
+06:06:24 01::17::59 PM: INFO: loginPage: enter_username: enter the username
+06:06:24 01::17::59 PM: INFO: loginPage: enter_username: enter the username
+06:06:24 01::17::59 PM: INFO: loginPage: enter_password: password verification is started
+06:06:24 01::17::59 PM: INFO: loginPage: enter_password: password verification is started
+06:06:24 01::17::59 PM: INFO: loginPage: enter_password: password verification is started
+06:06:24 01::17::59 PM: INFO: loginPage: enter_password: enter a valid password
+06:06:24 01::17::59 PM: INFO: loginPage: enter_password: enter a valid password
+06:06:24 01::17::59 PM: INFO: loginPage: enter_password: enter a valid password
+06:06:24 01::17::59 PM: INFO: loginPage: click_loginBtn: click on the login button
+06:06:24 01::17::59 PM: INFO: loginPage: click_loginBtn: click on the login button
+06:06:24 01::17::59 PM: INFO: loginPage: click_loginBtn: click on the login button
+06:06:24 01::18::04 PM: INFO: EnmergencyContactDetails: navigate_to_myInfo_page: user profile verification started
+06:06:24 01::18::04 PM: INFO: EnmergencyContactDetails: navigate_to_myInfo_page: user profile verification started
+06:06:24 01::18::04 PM: INFO: EnmergencyContactDetails: navigate_to_myInfo_page: user profile verification started
+06:06:24 01::18::07 PM: INFO: EnmergencyContactDetails: navigate_to_myInfo_page: user navigates to the my profile page
+06:06:24 01::18::07 PM: INFO: EnmergencyContactDetails: navigate_to_myInfo_page: user navigates to the my profile page
+06:06:24 01::18::07 PM: INFO: EnmergencyContactDetails: navigate_to_myInfo_page: user navigates to the my profile page
+06:06:24 01::18::07 PM: INFO: EnmergencyContactDetails: emergencyContact_verification: emergency contact verification is started
+06:06:24 01::18::07 PM: INFO: EnmergencyContactDetails: emergencyContact_verification: emergency contact verification is started
+06:06:24 01::18::07 PM: INFO: EnmergencyContactDetails: emergencyContact_verification: emergency contact verification is started
+06:06:24 01::18::10 PM: INFO: EnmergencyContactDetails: emergencyContact_verification: user navigates to the emergency contact tab
+06:06:24 01::18::10 PM: INFO: EnmergencyContactDetails: emergencyContact_verification: user navigates to the emergency contact tab
+06:06:24 01::18::10 PM: INFO: EnmergencyContactDetails: emergencyContact_verification: user navigates to the emergency contact tab
+06:06:24 01::18::10 PM: INFO: EnmergencyContactDetails: upload_emergencyContact_details: upload an attachment of emergency contact details
+06:06:24 01::18::10 PM: INFO: EnmergencyContactDetails: upload_emergencyContact_details: upload an attachment of emergency contact details
+06:06:24 01::18::10 PM: INFO: EnmergencyContactDetails: upload_emergencyContact_details: upload an attachment of emergency contact details
+06:06:24 01::20::10 PM: INFO: loginPage: enter_username: user name verification started
+06:06:24 01::20::10 PM: INFO: loginPage: enter_username: user name verification started
+06:06:24 01::20::10 PM: INFO: loginPage: enter_username: user name verification started
+06:06:24 01::20::10 PM: INFO: loginPage: enter_username: user clicked on the username field
+06:06:24 01::20::10 PM: INFO: loginPage: enter_username: user clicked on the username field
+06:06:24 01::20::10 PM: INFO: loginPage: enter_username: user clicked on the username field
+06:06:24 01::20::10 PM: INFO: loginPage: enter_username: enter the username
+06:06:24 01::20::10 PM: INFO: loginPage: enter_username: enter the username
+06:06:24 01::20::10 PM: INFO: loginPage: enter_username: enter the username
+06:06:24 01::20::10 PM: INFO: loginPage: enter_password: password verification is started
+06:06:24 01::20::10 PM: INFO: loginPage: enter_password: password verification is started
+06:06:24 01::20::10 PM: INFO: loginPage: enter_password: password verification is started
+06:06:24 01::20::10 PM: INFO: loginPage: enter_password: enter a valid password
+06:06:24 01::20::10 PM: INFO: loginPage: enter_password: enter a valid password
+06:06:24 01::20::10 PM: INFO: loginPage: enter_password: enter a valid password
+06:06:24 01::20::12 PM: INFO: loginPage: click_loginBtn: click on the login button
+06:06:24 01::20::12 PM: INFO: loginPage: click_loginBtn: click on the login button
+06:06:24 01::20::12 PM: INFO: loginPage: click_loginBtn: click on the login button
+06:06:24 01::20::17 PM: INFO: EnmergencyContactDetails: navigate_to_myInfo_page: user profile verification started
+06:06:24 01::20::17 PM: INFO: EnmergencyContactDetails: navigate_to_myInfo_page: user profile verification started
+06:06:24 01::20::17 PM: INFO: EnmergencyContactDetails: navigate_to_myInfo_page: user profile verification started
+06:06:24 01::20::20 PM: INFO: EnmergencyContactDetails: navigate_to_myInfo_page: user navigates to the my profile page
+06:06:24 01::20::20 PM: INFO: EnmergencyContactDetails: navigate_to_myInfo_page: user navigates to the my profile page
+06:06:24 01::20::20 PM: INFO: EnmergencyContactDetails: navigate_to_myInfo_page: user navigates to the my profile page
+06:06:24 01::20::20 PM: INFO: EnmergencyContactDetails: emergencyContact_verification: emergency contact verification is started
+06:06:24 01::20::20 PM: INFO: EnmergencyContactDetails: emergencyContact_verification: emergency contact verification is started
+06:06:24 01::20::20 PM: INFO: EnmergencyContactDetails: emergencyContact_verification: emergency contact verification is started
+06:06:24 01::20::22 PM: INFO: EnmergencyContactDetails: emergencyContact_verification: user navigates to the emergency contact tab
+06:06:24 01::20::22 PM: INFO: EnmergencyContactDetails: emergencyContact_verification: user navigates to the emergency contact tab
+06:06:24 01::20::22 PM: INFO: EnmergencyContactDetails: emergencyContact_verification: user navigates to the emergency contact tab
+06:06:24 01::20::22 PM: INFO: EnmergencyContactDetails: upload_emergencyContact_details: upload an attachment of emergency contact details
+06:06:24 01::20::22 PM: INFO: EnmergencyContactDetails: upload_emergencyContact_details: upload an attachment of emergency contact details
+06:06:24 01::20::22 PM: INFO: EnmergencyContactDetails: upload_emergencyContact_details: upload an attachment of emergency contact details
+06:06:24 01::22::46 PM: INFO: loginPage: enter_username: user name verification started
+06:06:24 01::22::46 PM: INFO: loginPage: enter_username: user name verification started
+06:06:24 01::22::46 PM: INFO: loginPage: enter_username: user name verification started
+06:06:24 01::22::47 PM: INFO: loginPage: enter_username: user clicked on the username field
+06:06:24 01::22::47 PM: INFO: loginPage: enter_username: user clicked on the username field
+06:06:24 01::22::47 PM: INFO: loginPage: enter_username: user clicked on the username field
+06:06:24 01::22::47 PM: INFO: loginPage: enter_username: enter the username
+06:06:24 01::22::47 PM: INFO: loginPage: enter_username: enter the username
+06:06:24 01::22::47 PM: INFO: loginPage: enter_username: enter the username
+06:06:24 01::22::47 PM: INFO: loginPage: enter_password: password verification is started
+06:06:24 01::22::47 PM: INFO: loginPage: enter_password: password verification is started
+06:06:24 01::22::47 PM: INFO: loginPage: enter_password: password verification is started
+06:06:24 01::22::47 PM: INFO: loginPage: enter_password: enter a valid password
+06:06:24 01::22::47 PM: INFO: loginPage: enter_password: enter a valid password
+06:06:24 01::22::47 PM: INFO: loginPage: enter_password: enter a valid password
+06:06:24 01::22::47 PM: INFO: loginPage: click_loginBtn: click on the login button
+06:06:24 01::22::47 PM: INFO: loginPage: click_loginBtn: click on the login button
+06:06:24 01::22::47 PM: INFO: loginPage: click_loginBtn: click on the login button
+06:06:24 01::22::52 PM: INFO: EnmergencyContactDetails: navigate_to_myInfo_page: user profile verification started
+06:06:24 01::22::52 PM: INFO: EnmergencyContactDetails: navigate_to_myInfo_page: user profile verification started
+06:06:24 01::22::52 PM: INFO: EnmergencyContactDetails: navigate_to_myInfo_page: user profile verification started
+06:06:24 01::22::55 PM: INFO: EnmergencyContactDetails: navigate_to_myInfo_page: user navigates to the my profile page
+06:06:24 01::22::55 PM: INFO: EnmergencyContactDetails: navigate_to_myInfo_page: user navigates to the my profile page
+06:06:24 01::22::55 PM: INFO: EnmergencyContactDetails: navigate_to_myInfo_page: user navigates to the my profile page
+06:06:24 01::22::55 PM: INFO: EnmergencyContactDetails: emergencyContact_verification: emergency contact verification is started
+06:06:24 01::22::55 PM: INFO: EnmergencyContactDetails: emergencyContact_verification: emergency contact verification is started
+06:06:24 01::22::55 PM: INFO: EnmergencyContactDetails: emergencyContact_verification: emergency contact verification is started
+06:06:24 01::22::58 PM: INFO: EnmergencyContactDetails: emergencyContact_verification: user navigates to the emergency contact tab
+06:06:24 01::22::58 PM: INFO: EnmergencyContactDetails: emergencyContact_verification: user navigates to the emergency contact tab
+06:06:24 01::22::58 PM: INFO: EnmergencyContactDetails: emergencyContact_verification: user navigates to the emergency contact tab
+06:06:24 01::22::58 PM: INFO: EnmergencyContactDetails: upload_emergencyContact_details: upload an attachment of emergency contact details
+06:06:24 01::22::58 PM: INFO: EnmergencyContactDetails: upload_emergencyContact_details: upload an attachment of emergency contact details
+06:06:24 01::22::58 PM: INFO: EnmergencyContactDetails: upload_emergencyContact_details: upload an attachment of emergency contact details
+06:06:24 01::26::17 PM: INFO: loginPage: enter_username: user name verification started
+06:06:24 01::26::17 PM: INFO: loginPage: enter_username: user name verification started
+06:06:24 01::26::17 PM: INFO: loginPage: enter_username: user name verification started
+06:06:24 01::26::18 PM: INFO: loginPage: enter_username: user clicked on the username field
+06:06:24 01::26::18 PM: INFO: loginPage: enter_username: user clicked on the username field
+06:06:24 01::26::18 PM: INFO: loginPage: enter_username: user clicked on the username field
+06:06:24 01::26::18 PM: INFO: loginPage: enter_username: enter the username
+06:06:24 01::26::18 PM: INFO: loginPage: enter_username: enter the username
+06:06:24 01::26::18 PM: INFO: loginPage: enter_username: enter the username
+06:06:24 01::26::18 PM: INFO: loginPage: enter_password: password verification is started
+06:06:24 01::26::18 PM: INFO: loginPage: enter_password: password verification is started
+06:06:24 01::26::18 PM: INFO: loginPage: enter_password: password verification is started
+06:06:24 01::26::18 PM: INFO: loginPage: enter_password: enter a valid password
+06:06:24 01::26::18 PM: INFO: loginPage: enter_password: enter a valid password
+06:06:24 01::26::18 PM: INFO: loginPage: enter_password: enter a valid password
+06:06:24 01::26::18 PM: INFO: loginPage: click_loginBtn: click on the login button
+06:06:24 01::26::18 PM: INFO: loginPage: click_loginBtn: click on the login button
+06:06:24 01::26::18 PM: INFO: loginPage: click_loginBtn: click on the login button
+06:06:24 01::26::23 PM: INFO: EnmergencyContactDetails: navigate_to_myInfo_page: user profile verification started
+06:06:24 01::26::23 PM: INFO: EnmergencyContactDetails: navigate_to_myInfo_page: user profile verification started
+06:06:24 01::26::23 PM: INFO: EnmergencyContactDetails: navigate_to_myInfo_page: user profile verification started
+06:06:24 01::26::26 PM: INFO: EnmergencyContactDetails: navigate_to_myInfo_page: user navigates to the my profile page
+06:06:24 01::26::26 PM: INFO: EnmergencyContactDetails: navigate_to_myInfo_page: user navigates to the my profile page
+06:06:24 01::26::26 PM: INFO: EnmergencyContactDetails: navigate_to_myInfo_page: user navigates to the my profile page
+06:06:24 01::26::26 PM: INFO: EnmergencyContactDetails: emergencyContact_verification: emergency contact verification is started
+06:06:24 01::26::26 PM: INFO: EnmergencyContactDetails: emergencyContact_verification: emergency contact verification is started
+06:06:24 01::26::26 PM: INFO: EnmergencyContactDetails: emergencyContact_verification: emergency contact verification is started
+06:06:24 01::26::29 PM: INFO: EnmergencyContactDetails: emergencyContact_verification: user navigates to the emergency contact tab
+06:06:24 01::26::29 PM: INFO: EnmergencyContactDetails: emergencyContact_verification: user navigates to the emergency contact tab
+06:06:24 01::26::29 PM: INFO: EnmergencyContactDetails: emergencyContact_verification: user navigates to the emergency contact tab
+06:06:24 01::26::29 PM: INFO: EnmergencyContactDetails: upload_emergencyContact_details: upload an attachment of emergency contact details
+06:06:24 01::26::29 PM: INFO: EnmergencyContactDetails: upload_emergencyContact_details: upload an attachment of emergency contact details
+06:06:24 01::26::29 PM: INFO: EnmergencyContactDetails: upload_emergencyContact_details: upload an attachment of emergency contact details
+06:06:24 01::27::47 PM: INFO: loginPage: enter_username: user name verification started
+06:06:24 01::27::47 PM: INFO: loginPage: enter_username: user name verification started
+06:06:24 01::27::47 PM: INFO: loginPage: enter_username: user name verification started
+06:06:24 01::27::47 PM: INFO: loginPage: enter_username: user clicked on the username field
+06:06:24 01::27::47 PM: INFO: loginPage: enter_username: user clicked on the username field
+06:06:24 01::27::47 PM: INFO: loginPage: enter_username: user clicked on the username field
+06:06:24 01::27::47 PM: INFO: loginPage: enter_username: enter the username
+06:06:24 01::27::47 PM: INFO: loginPage: enter_username: enter the username
+06:06:24 01::27::47 PM: INFO: loginPage: enter_username: enter the username
+06:06:24 01::27::47 PM: INFO: loginPage: enter_password: password verification is started
+06:06:24 01::27::47 PM: INFO: loginPage: enter_password: password verification is started
+06:06:24 01::27::47 PM: INFO: loginPage: enter_password: password verification is started
+06:06:24 01::27::47 PM: INFO: loginPage: enter_password: enter a valid password
+06:06:24 01::27::47 PM: INFO: loginPage: enter_password: enter a valid password
+06:06:24 01::27::47 PM: INFO: loginPage: enter_password: enter a valid password
+06:06:24 01::27::47 PM: INFO: loginPage: click_loginBtn: click on the login button
+06:06:24 01::27::47 PM: INFO: loginPage: click_loginBtn: click on the login button
+06:06:24 01::27::47 PM: INFO: loginPage: click_loginBtn: click on the login button
+06:06:24 01::27::52 PM: INFO: EnmergencyContactDetails: navigate_to_myInfo_page: user profile verification started
+06:06:24 01::27::52 PM: INFO: EnmergencyContactDetails: navigate_to_myInfo_page: user profile verification started
+06:06:24 01::27::52 PM: INFO: EnmergencyContactDetails: navigate_to_myInfo_page: user profile verification started
+06:06:24 01::27::55 PM: INFO: EnmergencyContactDetails: navigate_to_myInfo_page: user navigates to the my profile page
+06:06:24 01::27::55 PM: INFO: EnmergencyContactDetails: navigate_to_myInfo_page: user navigates to the my profile page
+06:06:24 01::27::55 PM: INFO: EnmergencyContactDetails: navigate_to_myInfo_page: user navigates to the my profile page
+06:06:24 01::27::55 PM: INFO: EnmergencyContactDetails: emergencyContact_verification: emergency contact verification is started
+06:06:24 01::27::55 PM: INFO: EnmergencyContactDetails: emergencyContact_verification: emergency contact verification is started
+06:06:24 01::27::55 PM: INFO: EnmergencyContactDetails: emergencyContact_verification: emergency contact verification is started
+06:06:24 01::27::58 PM: INFO: EnmergencyContactDetails: emergencyContact_verification: user navigates to the emergency contact tab
+06:06:24 01::27::58 PM: INFO: EnmergencyContactDetails: emergencyContact_verification: user navigates to the emergency contact tab
+06:06:24 01::27::58 PM: INFO: EnmergencyContactDetails: emergencyContact_verification: user navigates to the emergency contact tab
+06:06:24 01::27::58 PM: INFO: EnmergencyContactDetails: upload_emergencyContact_details: upload an attachment of emergency contact details
+06:06:24 01::27::58 PM: INFO: EnmergencyContactDetails: upload_emergencyContact_details: upload an attachment of emergency contact details
+06:06:24 01::27::58 PM: INFO: EnmergencyContactDetails: upload_emergencyContact_details: upload an attachment of emergency contact details
+06:06:24 01::56::25 PM: INFO: loginPage: enter_username: user name verification started
+06:06:24 01::56::25 PM: INFO: loginPage: enter_username: user name verification started
+06:06:24 01::56::25 PM: INFO: loginPage: enter_username: user name verification started
+06:06:24 01::56::25 PM: INFO: loginPage: enter_username: user clicked on the username field
+06:06:24 01::56::25 PM: INFO: loginPage: enter_username: user clicked on the username field
+06:06:24 01::56::25 PM: INFO: loginPage: enter_username: user clicked on the username field
+06:06:24 01::56::25 PM: INFO: loginPage: enter_username: enter the username
+06:06:24 01::56::25 PM: INFO: loginPage: enter_username: enter the username
+06:06:24 01::56::25 PM: INFO: loginPage: enter_username: enter the username
+06:06:24 01::56::25 PM: INFO: loginPage: enter_password: password verification is started
+06:06:24 01::56::25 PM: INFO: loginPage: enter_password: password verification is started
+06:06:24 01::56::25 PM: INFO: loginPage: enter_password: password verification is started
+06:06:24 01::56::25 PM: INFO: loginPage: enter_password: enter a valid password
+06:06:24 01::56::25 PM: INFO: loginPage: enter_password: enter a valid password
+06:06:24 01::56::25 PM: INFO: loginPage: enter_password: enter a valid password
+06:06:24 01::56::27 PM: INFO: loginPage: click_loginBtn: click on the login button
+06:06:24 01::56::27 PM: INFO: loginPage: click_loginBtn: click on the login button
+06:06:24 01::56::27 PM: INFO: loginPage: click_loginBtn: click on the login button
+06:06:24 01::56::34 PM: INFO: EnmergencyContactDetails: navigate_to_myInfo_page: user profile verification started
+06:06:24 01::56::34 PM: INFO: EnmergencyContactDetails: navigate_to_myInfo_page: user profile verification started
+06:06:24 01::56::34 PM: INFO: EnmergencyContactDetails: navigate_to_myInfo_page: user profile verification started
+06:06:24 01::56::52 PM: INFO: loginPage: enter_username: user name verification started
+06:06:24 01::56::52 PM: INFO: loginPage: enter_username: user name verification started
+06:06:24 01::56::52 PM: INFO: loginPage: enter_username: user name verification started
+06:06:24 01::56::53 PM: INFO: loginPage: enter_username: user clicked on the username field
+06:06:24 01::56::53 PM: INFO: loginPage: enter_username: user clicked on the username field
+06:06:24 01::56::53 PM: INFO: loginPage: enter_username: user clicked on the username field
+06:06:24 01::56::53 PM: INFO: loginPage: enter_username: enter the username
+06:06:24 01::56::53 PM: INFO: loginPage: enter_username: enter the username
+06:06:24 01::56::53 PM: INFO: loginPage: enter_username: enter the username
+06:06:24 01::56::53 PM: INFO: loginPage: enter_password: password verification is started
+06:06:24 01::56::53 PM: INFO: loginPage: enter_password: password verification is started
+06:06:24 01::56::53 PM: INFO: loginPage: enter_password: password verification is started
+06:06:24 01::56::53 PM: INFO: loginPage: enter_password: enter a valid password
+06:06:24 01::56::53 PM: INFO: loginPage: enter_password: enter a valid password
+06:06:24 01::56::53 PM: INFO: loginPage: enter_password: enter a valid password
+06:06:24 01::56::54 PM: INFO: loginPage: click_loginBtn: click on the login button
+06:06:24 01::56::54 PM: INFO: loginPage: click_loginBtn: click on the login button
+06:06:24 01::56::54 PM: INFO: loginPage: click_loginBtn: click on the login button
+06:06:24 01::56::59 PM: INFO: EnmergencyContactDetails: navigate_to_myInfo_page: user profile verification started
+06:06:24 01::56::59 PM: INFO: EnmergencyContactDetails: navigate_to_myInfo_page: user profile verification started
+06:06:24 01::56::59 PM: INFO: EnmergencyContactDetails: navigate_to_myInfo_page: user profile verification started
+06:06:24 01::57::02 PM: INFO: EnmergencyContactDetails: navigate_to_myInfo_page: user navigates to the my profile page
+06:06:24 01::57::02 PM: INFO: EnmergencyContactDetails: navigate_to_myInfo_page: user navigates to the my profile page
+06:06:24 01::57::02 PM: INFO: EnmergencyContactDetails: navigate_to_myInfo_page: user navigates to the my profile page
+06:06:24 01::57::02 PM: INFO: EnmergencyContactDetails: emergencyContact_verification: emergency contact verification is started
+06:06:24 01::57::02 PM: INFO: EnmergencyContactDetails: emergencyContact_verification: emergency contact verification is started
+06:06:24 01::57::02 PM: INFO: EnmergencyContactDetails: emergencyContact_verification: emergency contact verification is started
+06:06:24 01::57::05 PM: INFO: EnmergencyContactDetails: emergencyContact_verification: user navigates to the emergency contact tab
+06:06:24 01::57::05 PM: INFO: EnmergencyContactDetails: emergencyContact_verification: user navigates to the emergency contact tab
+06:06:24 01::57::05 PM: INFO: EnmergencyContactDetails: emergencyContact_verification: user navigates to the emergency contact tab
+06:06:24 01::57::05 PM: INFO: EnmergencyContactDetails: upload_emergencyContact_details: upload an attachment of emergency contact details
+06:06:24 01::57::05 PM: INFO: EnmergencyContactDetails: upload_emergencyContact_details: upload an attachment of emergency contact details
+06:06:24 01::57::05 PM: INFO: EnmergencyContactDetails: upload_emergencyContact_details: upload an attachment of emergency contact details
+06:06:24 01::57::13 PM: INFO: EnmergencyContactDetails: upload_emergencyContact_details: file uploaded successfully
+06:06:24 01::57::13 PM: INFO: EnmergencyContactDetails: upload_emergencyContact_details: file uploaded successfully
+06:06:24 01::57::13 PM: INFO: EnmergencyContactDetails: upload_emergencyContact_details: file uploaded successfully
+06:06:24 01::59::54 PM: INFO: loginPage: enter_username: user name verification started
+06:06:24 01::59::54 PM: INFO: loginPage: enter_username: user name verification started
+06:06:24 01::59::54 PM: INFO: loginPage: enter_username: user name verification started
+06:06:24 01::59::55 PM: INFO: loginPage: enter_username: user clicked on the username field
+06:06:24 01::59::55 PM: INFO: loginPage: enter_username: user clicked on the username field
+06:06:24 01::59::55 PM: INFO: loginPage: enter_username: user clicked on the username field
+06:06:24 01::59::55 PM: INFO: loginPage: enter_username: enter the username
+06:06:24 01::59::55 PM: INFO: loginPage: enter_username: enter the username
+06:06:24 01::59::55 PM: INFO: loginPage: enter_username: enter the username
+06:06:24 01::59::55 PM: INFO: loginPage: enter_password: password verification is started
+06:06:24 01::59::55 PM: INFO: loginPage: enter_password: password verification is started
+06:06:24 01::59::55 PM: INFO: loginPage: enter_password: password verification is started
+06:06:24 01::59::55 PM: INFO: loginPage: enter_password: enter a valid password
+06:06:24 01::59::55 PM: INFO: loginPage: enter_password: enter a valid password
+06:06:24 01::59::55 PM: INFO: loginPage: enter_password: enter a valid password
+06:06:24 01::59::56 PM: INFO: loginPage: click_loginBtn: click on the login button
+06:06:24 01::59::56 PM: INFO: loginPage: click_loginBtn: click on the login button
+06:06:24 01::59::56 PM: INFO: loginPage: click_loginBtn: click on the login button
+06:06:24 02::00::01 PM: INFO: EnmergencyContactDetails: navigate_to_myInfo_page: user profile verification started
+06:06:24 02::00::01 PM: INFO: EnmergencyContactDetails: navigate_to_myInfo_page: user profile verification started
+06:06:24 02::00::01 PM: INFO: EnmergencyContactDetails: navigate_to_myInfo_page: user profile verification started
+06:06:24 02::00::04 PM: INFO: EnmergencyContactDetails: navigate_to_myInfo_page: user navigates to the my profile page
+06:06:24 02::00::04 PM: INFO: EnmergencyContactDetails: navigate_to_myInfo_page: user navigates to the my profile page
+06:06:24 02::00::04 PM: INFO: EnmergencyContactDetails: navigate_to_myInfo_page: user navigates to the my profile page
+06:06:24 02::00::04 PM: INFO: EnmergencyContactDetails: emergencyContact_verification: emergency contact verification is started
+06:06:24 02::00::04 PM: INFO: EnmergencyContactDetails: emergencyContact_verification: emergency contact verification is started
+06:06:24 02::00::04 PM: INFO: EnmergencyContactDetails: emergencyContact_verification: emergency contact verification is started
+06:06:24 02::00::07 PM: INFO: EnmergencyContactDetails: emergencyContact_verification: user navigates to the emergency contact tab
+06:06:24 02::00::07 PM: INFO: EnmergencyContactDetails: emergencyContact_verification: user navigates to the emergency contact tab
+06:06:24 02::00::07 PM: INFO: EnmergencyContactDetails: emergencyContact_verification: user navigates to the emergency contact tab
+06:06:24 02::00::07 PM: INFO: EnmergencyContactDetails: addEmenrgecyContactUserDetails: add emergency contact information
+06:06:24 02::00::07 PM: INFO: EnmergencyContactDetails: addEmenrgecyContactUserDetails: add emergency contact information
+06:06:24 02::00::07 PM: INFO: EnmergencyContactDetails: addEmenrgecyContactUserDetails: add emergency contact information
+06:06:24 02::00::08 PM: INFO: EnmergencyContactDetails: addEmenrgecyContactUserDetails: click on the add button
+06:06:24 02::00::08 PM: INFO: EnmergencyContactDetails: addEmenrgecyContactUserDetails: click on the add button
+06:06:24 02::00::08 PM: INFO: EnmergencyContactDetails: addEmenrgecyContactUserDetails: click on the add button
+06:06:24 02::00::08 PM: INFO: EnmergencyContactDetails: addEmenrgecyContactUserDetails: emergency contact person name is: Sanju
+06:06:24 02::00::08 PM: INFO: EnmergencyContactDetails: addEmenrgecyContactUserDetails: emergency contact person name is: Sanju
+06:06:24 02::00::08 PM: INFO: EnmergencyContactDetails: addEmenrgecyContactUserDetails: emergency contact person name is: Sanju
+06:06:24 02::00::09 PM: INFO: EnmergencyContactDetails: addEmenrgecyContactUserDetails: relation is wife
+06:06:24 02::00::09 PM: INFO: EnmergencyContactDetails: addEmenrgecyContactUserDetails: relation is wife
+06:06:24 02::00::09 PM: INFO: EnmergencyContactDetails: addEmenrgecyContactUserDetails: relation is wife
+06:06:24 02::00::09 PM: INFO: EnmergencyContactDetails: addEmenrgecyContactUserDetails: Emergency contact number is 1234567890
+06:06:24 02::00::09 PM: INFO: EnmergencyContactDetails: addEmenrgecyContactUserDetails: Emergency contact number is 1234567890
+06:06:24 02::00::09 PM: INFO: EnmergencyContactDetails: addEmenrgecyContactUserDetails: Emergency contact number is 1234567890
+06:06:24 02::00::12 PM: INFO: EnmergencyContactDetails: upload_emergencyContact_details: upload an attachment of emergency contact details
+06:06:24 02::00::12 PM: INFO: EnmergencyContactDetails: upload_emergencyContact_details: upload an attachment of emergency contact details
+06:06:24 02::00::12 PM: INFO: EnmergencyContactDetails: upload_emergencyContact_details: upload an attachment of emergency contact details
+06:06:24 02::00::21 PM: INFO: EnmergencyContactDetails: upload_emergencyContact_details: file uploaded successfully
+06:06:24 02::00::21 PM: INFO: EnmergencyContactDetails: upload_emergencyContact_details: file uploaded successfully
+06:06:24 02::00::21 PM: INFO: EnmergencyContactDetails: upload_emergencyContact_details: file uploaded successfully
+06:06:24 02::04::42 PM: INFO: loginPage: enter_username: user name verification started
+06:06:24 02::04::42 PM: INFO: loginPage: enter_username: user name verification started
+06:06:24 02::04::42 PM: INFO: loginPage: enter_username: user name verification started
+06:06:24 02::04::42 PM: INFO: loginPage: enter_username: user clicked on the username field
+06:06:24 02::04::42 PM: INFO: loginPage: enter_username: user clicked on the username field
+06:06:24 02::04::42 PM: INFO: loginPage: enter_username: user clicked on the username field
+06:06:24 02::04::42 PM: INFO: loginPage: enter_username: enter the username
+06:06:24 02::04::42 PM: INFO: loginPage: enter_username: enter the username
+06:06:24 02::04::42 PM: INFO: loginPage: enter_username: enter the username
+06:06:24 02::04::42 PM: INFO: loginPage: enter_password: password verification is started
+06:06:24 02::04::42 PM: INFO: loginPage: enter_password: password verification is started
+06:06:24 02::04::42 PM: INFO: loginPage: enter_password: password verification is started
+06:06:24 02::04::42 PM: INFO: loginPage: enter_password: enter a valid password
+06:06:24 02::04::42 PM: INFO: loginPage: enter_password: enter a valid password
+06:06:24 02::04::42 PM: INFO: loginPage: enter_password: enter a valid password
+06:06:24 02::04::44 PM: INFO: loginPage: click_loginBtn: click on the login button
+06:06:24 02::04::44 PM: INFO: loginPage: click_loginBtn: click on the login button
+06:06:24 02::04::44 PM: INFO: loginPage: click_loginBtn: click on the login button
+06:06:24 02::04::49 PM: INFO: EnmergencyContactDetails: navigate_to_myInfo_page: user profile verification started
+06:06:24 02::04::49 PM: INFO: EnmergencyContactDetails: navigate_to_myInfo_page: user profile verification started
+06:06:24 02::04::49 PM: INFO: EnmergencyContactDetails: navigate_to_myInfo_page: user profile verification started
+06:06:24 02::04::52 PM: INFO: EnmergencyContactDetails: navigate_to_myInfo_page: user navigates to the my profile page
+06:06:24 02::04::52 PM: INFO: EnmergencyContactDetails: navigate_to_myInfo_page: user navigates to the my profile page
+06:06:24 02::04::52 PM: INFO: EnmergencyContactDetails: navigate_to_myInfo_page: user navigates to the my profile page
+06:06:24 02::04::52 PM: INFO: EnmergencyContactDetails: emergencyContact_verification: emergency contact verification is started
+06:06:24 02::04::52 PM: INFO: EnmergencyContactDetails: emergencyContact_verification: emergency contact verification is started
+06:06:24 02::04::52 PM: INFO: EnmergencyContactDetails: emergencyContact_verification: emergency contact verification is started
+06:06:24 02::04::54 PM: INFO: EnmergencyContactDetails: emergencyContact_verification: user navigates to the emergency contact tab
+06:06:24 02::04::54 PM: INFO: EnmergencyContactDetails: emergencyContact_verification: user navigates to the emergency contact tab
+06:06:24 02::04::54 PM: INFO: EnmergencyContactDetails: emergencyContact_verification: user navigates to the emergency contact tab
+06:06:24 02::04::54 PM: INFO: EnmergencyContactDetails: addEmenrgecyContactUserDetails: add emergency contact information
+06:06:24 02::04::54 PM: INFO: EnmergencyContactDetails: addEmenrgecyContactUserDetails: add emergency contact information
+06:06:24 02::04::54 PM: INFO: EnmergencyContactDetails: addEmenrgecyContactUserDetails: add emergency contact information
+06:06:24 02::04::55 PM: INFO: EnmergencyContactDetails: addEmenrgecyContactUserDetails: click on the add button
+06:06:24 02::04::55 PM: INFO: EnmergencyContactDetails: addEmenrgecyContactUserDetails: click on the add button
+06:06:24 02::04::55 PM: INFO: EnmergencyContactDetails: addEmenrgecyContactUserDetails: click on the add button
+06:06:24 02::04::55 PM: INFO: EnmergencyContactDetails: addEmenrgecyContactUserDetails: emergency contact person name is: Sanju
+06:06:24 02::04::55 PM: INFO: EnmergencyContactDetails: addEmenrgecyContactUserDetails: emergency contact person name is: Sanju
+06:06:24 02::04::55 PM: INFO: EnmergencyContactDetails: addEmenrgecyContactUserDetails: emergency contact person name is: Sanju
+06:06:24 02::04::57 PM: INFO: EnmergencyContactDetails: addEmenrgecyContactUserDetails: relation is wife
+06:06:24 02::04::57 PM: INFO: EnmergencyContactDetails: addEmenrgecyContactUserDetails: relation is wife
+06:06:24 02::04::57 PM: INFO: EnmergencyContactDetails: addEmenrgecyContactUserDetails: relation is wife
+06:06:24 02::04::57 PM: INFO: EnmergencyContactDetails: addEmenrgecyContactUserDetails: Emergency contact number is 1234567890
+06:06:24 02::04::57 PM: INFO: EnmergencyContactDetails: addEmenrgecyContactUserDetails: Emergency contact number is 1234567890
+06:06:24 02::04::57 PM: INFO: EnmergencyContactDetails: addEmenrgecyContactUserDetails: Emergency contact number is 1234567890
+06:06:24 02::05::00 PM: INFO: EnmergencyContactDetails: upload_emergencyContact_details: upload an attachment of emergency contact details
+06:06:24 02::05::00 PM: INFO: EnmergencyContactDetails: upload_emergencyContact_details: upload an attachment of emergency contact details
+06:06:24 02::05::00 PM: INFO: EnmergencyContactDetails: upload_emergencyContact_details: upload an attachment of emergency contact details
+06:06:24 02::05::08 PM: INFO: EnmergencyContactDetails: upload_emergencyContact_details: file uploaded successfully
+06:06:24 02::05::08 PM: INFO: EnmergencyContactDetails: upload_emergencyContact_details: file uploaded successfully
+06:06:24 02::05::08 PM: INFO: EnmergencyContactDetails: upload_emergencyContact_details: file uploaded successfully
+06:06:24 02::07::28 PM: INFO: loginPage: enter_username: user name verification started
+06:06:24 02::07::28 PM: INFO: loginPage: enter_username: user name verification started
+06:06:24 02::07::28 PM: INFO: loginPage: enter_username: user name verification started
+06:06:24 02::07::29 PM: INFO: loginPage: enter_username: user clicked on the username field
+06:06:24 02::07::29 PM: INFO: loginPage: enter_username: user clicked on the username field
+06:06:24 02::07::29 PM: INFO: loginPage: enter_username: user clicked on the username field
+06:06:24 02::07::29 PM: INFO: loginPage: enter_username: enter the username
+06:06:24 02::07::29 PM: INFO: loginPage: enter_username: enter the username
+06:06:24 02::07::29 PM: INFO: loginPage: enter_username: enter the username
+06:06:24 02::07::29 PM: INFO: loginPage: enter_password: password verification is started
+06:06:24 02::07::29 PM: INFO: loginPage: enter_password: password verification is started
+06:06:24 02::07::29 PM: INFO: loginPage: enter_password: password verification is started
+06:06:24 02::07::29 PM: INFO: loginPage: enter_password: enter a valid password
+06:06:24 02::07::29 PM: INFO: loginPage: enter_password: enter a valid password
+06:06:24 02::07::29 PM: INFO: loginPage: enter_password: enter a valid password
+06:06:24 02::07::29 PM: INFO: loginPage: click_loginBtn: click on the login button
+06:06:24 02::07::29 PM: INFO: loginPage: click_loginBtn: click on the login button
+06:06:24 02::07::29 PM: INFO: loginPage: click_loginBtn: click on the login button
+06:06:24 02::08::17 PM: INFO: loginPage: enter_username: user name verification started
+06:06:24 02::08::17 PM: INFO: loginPage: enter_username: user name verification started
+06:06:24 02::08::17 PM: INFO: loginPage: enter_username: user name verification started
+06:06:24 02::08::18 PM: INFO: loginPage: enter_username: user clicked on the username field
+06:06:24 02::08::18 PM: INFO: loginPage: enter_username: user clicked on the username field
+06:06:24 02::08::18 PM: INFO: loginPage: enter_username: user clicked on the username field
+06:06:24 02::08::18 PM: INFO: loginPage: enter_username: enter the username
+06:06:24 02::08::18 PM: INFO: loginPage: enter_username: enter the username
+06:06:24 02::08::18 PM: INFO: loginPage: enter_username: enter the username
+06:06:24 02::08::18 PM: INFO: loginPage: enter_password: password verification is started
+06:06:24 02::08::18 PM: INFO: loginPage: enter_password: password verification is started
+06:06:24 02::08::18 PM: INFO: loginPage: enter_password: password verification is started
+06:06:24 02::08::18 PM: INFO: loginPage: enter_password: enter a valid password
+06:06:24 02::08::18 PM: INFO: loginPage: enter_password: enter a valid password
+06:06:24 02::08::18 PM: INFO: loginPage: enter_password: enter a valid password
+06:06:24 02::08::18 PM: INFO: loginPage: click_loginBtn: click on the login button
+06:06:24 02::08::18 PM: INFO: loginPage: click_loginBtn: click on the login button
+06:06:24 02::08::18 PM: INFO: loginPage: click_loginBtn: click on the login button
+06:06:24 02::09::04 PM: INFO: loginPage: enter_username: user name verification started
+06:06:24 02::09::04 PM: INFO: loginPage: enter_username: user name verification started
+06:06:24 02::09::04 PM: INFO: loginPage: enter_username: user name verification started
+06:06:24 02::09::05 PM: INFO: loginPage: enter_username: user clicked on the username field
+06:06:24 02::09::05 PM: INFO: loginPage: enter_username: user clicked on the username field
+06:06:24 02::09::05 PM: INFO: loginPage: enter_username: user clicked on the username field
+06:06:24 02::09::05 PM: INFO: loginPage: enter_username: enter the username
+06:06:24 02::09::05 PM: INFO: loginPage: enter_username: enter the username
+06:06:24 02::09::05 PM: INFO: loginPage: enter_username: enter the username
+06:06:24 02::09::05 PM: INFO: loginPage: enter_password: password verification is started
+06:06:24 02::09::05 PM: INFO: loginPage: enter_password: password verification is started
+06:06:24 02::09::05 PM: INFO: loginPage: enter_password: password verification is started
+06:06:24 02::09::05 PM: INFO: loginPage: enter_password: enter a valid password
+06:06:24 02::09::05 PM: INFO: loginPage: enter_password: enter a valid password
+06:06:24 02::09::05 PM: INFO: loginPage: enter_password: enter a valid password
+06:06:24 02::09::06 PM: INFO: loginPage: click_loginBtn: click on the login button
+06:06:24 02::09::06 PM: INFO: loginPage: click_loginBtn: click on the login button
+06:06:24 02::09::06 PM: INFO: loginPage: click_loginBtn: click on the login button
+06:06:24 02::09::11 PM: INFO: EnmergencyContactDetails: navigate_to_myInfo_page: user profile verification started
+06:06:24 02::09::11 PM: INFO: EnmergencyContactDetails: navigate_to_myInfo_page: user profile verification started
+06:06:24 02::09::11 PM: INFO: EnmergencyContactDetails: navigate_to_myInfo_page: user profile verification started
+06:06:24 02::09::14 PM: INFO: EnmergencyContactDetails: navigate_to_myInfo_page: user navigates to the my profile page
+06:06:24 02::09::14 PM: INFO: EnmergencyContactDetails: navigate_to_myInfo_page: user navigates to the my profile page
+06:06:24 02::09::14 PM: INFO: EnmergencyContactDetails: navigate_to_myInfo_page: user navigates to the my profile page
+06:06:24 02::09::14 PM: INFO: EnmergencyContactDetails: emergencyContact_verification: emergency contact verification is started
+06:06:24 02::09::14 PM: INFO: EnmergencyContactDetails: emergencyContact_verification: emergency contact verification is started
+06:06:24 02::09::14 PM: INFO: EnmergencyContactDetails: emergencyContact_verification: emergency contact verification is started
+06:06:24 02::09::17 PM: INFO: EnmergencyContactDetails: emergencyContact_verification: user navigates to the emergency contact tab
+06:06:24 02::09::17 PM: INFO: EnmergencyContactDetails: emergencyContact_verification: user navigates to the emergency contact tab
+06:06:24 02::09::17 PM: INFO: EnmergencyContactDetails: emergencyContact_verification: user navigates to the emergency contact tab
+06:06:24 02::09::17 PM: INFO: EnmergencyContactDetails: addEmenrgecyContactUserDetails: add emergency contact information
+06:06:24 02::09::17 PM: INFO: EnmergencyContactDetails: addEmenrgecyContactUserDetails: add emergency contact information
+06:06:24 02::09::17 PM: INFO: EnmergencyContactDetails: addEmenrgecyContactUserDetails: add emergency contact information
+06:06:24 02::09::18 PM: INFO: EnmergencyContactDetails: addEmenrgecyContactUserDetails: click on the add button
+06:06:24 02::09::18 PM: INFO: EnmergencyContactDetails: addEmenrgecyContactUserDetails: click on the add button
+06:06:24 02::09::18 PM: INFO: EnmergencyContactDetails: addEmenrgecyContactUserDetails: click on the add button
+06:06:24 02::09::18 PM: INFO: EnmergencyContactDetails: addEmenrgecyContactUserDetails: emergency contact person name is: Sanju
+06:06:24 02::09::18 PM: INFO: EnmergencyContactDetails: addEmenrgecyContactUserDetails: emergency contact person name is: Sanju
+06:06:24 02::09::18 PM: INFO: EnmergencyContactDetails: addEmenrgecyContactUserDetails: emergency contact person name is: Sanju
+06:06:24 02::09::19 PM: INFO: EnmergencyContactDetails: addEmenrgecyContactUserDetails: relation is wife
+06:06:24 02::09::19 PM: INFO: EnmergencyContactDetails: addEmenrgecyContactUserDetails: relation is wife
+06:06:24 02::09::19 PM: INFO: EnmergencyContactDetails: addEmenrgecyContactUserDetails: relation is wife
+06:06:24 02::09::19 PM: INFO: EnmergencyContactDetails: addEmenrgecyContactUserDetails: Emergency contact number is 1234567890
+06:06:24 02::09::19 PM: INFO: EnmergencyContactDetails: addEmenrgecyContactUserDetails: Emergency contact number is 1234567890
+06:06:24 02::09::19 PM: INFO: EnmergencyContactDetails: addEmenrgecyContactUserDetails: Emergency contact number is 1234567890
+06:06:24 02::09::22 PM: INFO: EnmergencyContactDetails: upload_emergencyContact_details: upload an attachment of emergency contact details
+06:06:24 02::09::22 PM: INFO: EnmergencyContactDetails: upload_emergencyContact_details: upload an attachment of emergency contact details
+06:06:24 02::09::22 PM: INFO: EnmergencyContactDetails: upload_emergencyContact_details: upload an attachment of emergency contact details
+06:06:24 02::09::30 PM: INFO: EnmergencyContactDetails: upload_emergencyContact_details: file uploaded successfully
+06:06:24 02::09::30 PM: INFO: EnmergencyContactDetails: upload_emergencyContact_details: file uploaded successfully
+06:06:24 02::09::30 PM: INFO: EnmergencyContactDetails: upload_emergencyContact_details: file uploaded successfully
+06:06:24 02::09::43 PM: INFO: loginPage: enter_username: user name verification started
+06:06:24 02::09::43 PM: INFO: loginPage: enter_username: user name verification started
+06:06:24 02::09::43 PM: INFO: loginPage: enter_username: user name verification started
+06:06:24 02::09::44 PM: INFO: loginPage: enter_username: user clicked on the username field
+06:06:24 02::09::44 PM: INFO: loginPage: enter_username: user clicked on the username field
+06:06:24 02::09::44 PM: INFO: loginPage: enter_username: user clicked on the username field
+06:06:24 02::09::45 PM: INFO: loginPage: enter_username: enter the username
+06:06:24 02::09::45 PM: INFO: loginPage: enter_username: enter the username
+06:06:24 02::09::45 PM: INFO: loginPage: enter_username: enter the username
+06:06:24 02::09::45 PM: INFO: loginPage: enter_password: password verification is started
+06:06:24 02::09::45 PM: INFO: loginPage: enter_password: password verification is started
+06:06:24 02::09::45 PM: INFO: loginPage: enter_password: password verification is started
+06:06:24 02::09::45 PM: INFO: loginPage: enter_password: enter a valid password
+06:06:24 02::09::45 PM: INFO: loginPage: enter_password: enter a valid password
+06:06:24 02::09::45 PM: INFO: loginPage: enter_password: enter a valid password
+06:06:24 02::09::45 PM: INFO: loginPage: click_loginBtn: click on the login button
+06:06:24 02::09::45 PM: INFO: loginPage: click_loginBtn: click on the login button
+06:06:24 02::09::45 PM: INFO: loginPage: click_loginBtn: click on the login button
+06:06:24 02::09::50 PM: INFO: loginPage: switchingTab: parent page title is OrangeHRM
+06:06:24 02::09::50 PM: INFO: loginPage: switchingTab: parent page title is OrangeHRM
+06:06:24 02::09::50 PM: INFO: loginPage: switchingTab: parent page title is OrangeHRM
+06:06:24 02::09::50 PM: INFO: loginPage: switchingTab: user clicked on the help button
+06:06:24 02::09::50 PM: INFO: loginPage: switchingTab: user clicked on the help button
+06:06:24 02::09::50 PM: INFO: loginPage: switchingTab: user clicked on the help button
+06:06:24 02::09::52 PM: INFO: loginPage: switchingTab: child windows are 26327B789DA16BE3CC7ACC264617CDF2
+06:06:24 02::09::52 PM: INFO: loginPage: switchingTab: child windows are 26327B789DA16BE3CC7ACC264617CDF2
+06:06:24 02::09::52 PM: INFO: loginPage: switchingTab: child windows are 26327B789DA16BE3CC7ACC264617CDF2
+06:06:24 02::09::52 PM: INFO: loginPage: switchingTab: user navigates to the parent window
+06:06:24 02::09::52 PM: INFO: loginPage: switchingTab: user navigates to the parent window
+06:06:24 02::09::52 PM: INFO: loginPage: switchingTab: user navigates to the parent window
+06:06:24 02::09::56 PM: INFO: loginPage: logout: user clicked on the logout button
+06:06:24 02::09::56 PM: INFO: loginPage: logout: user clicked on the logout button
+06:06:24 02::09::56 PM: INFO: loginPage: logout: user clicked on the logout button
+06:06:24 02::10::00 PM: INFO: loginPage: logout: user logged out successfully
+06:06:24 02::10::00 PM: INFO: loginPage: logout: user logged out successfully
+06:06:24 02::10::00 PM: INFO: loginPage: logout: user logged out successfully
+06:06:24 02::10::10 PM: INFO: loginPage: enter_username: user name verification started
+06:06:24 02::10::10 PM: INFO: loginPage: enter_username: user name verification started
+06:06:24 02::10::10 PM: INFO: loginPage: enter_username: user name verification started
+06:06:24 02::10::10 PM: INFO: loginPage: enter_username: user clicked on the username field
+06:06:24 02::10::10 PM: INFO: loginPage: enter_username: user clicked on the username field
+06:06:24 02::10::10 PM: INFO: loginPage: enter_username: user clicked on the username field
+06:06:24 02::10::10 PM: INFO: loginPage: enter_username: enter the username
+06:06:24 02::10::10 PM: INFO: loginPage: enter_username: enter the username
+06:06:24 02::10::10 PM: INFO: loginPage: enter_username: enter the username
+06:06:24 02::10::10 PM: INFO: loginPage: enter_password: password verification is started
+06:06:24 02::10::10 PM: INFO: loginPage: enter_password: password verification is started
+06:06:24 02::10::10 PM: INFO: loginPage: enter_password: password verification is started
+06:06:24 02::10::11 PM: INFO: loginPage: enter_password: enter a valid password
+06:06:24 02::10::11 PM: INFO: loginPage: enter_password: enter a valid password
+06:06:24 02::10::11 PM: INFO: loginPage: enter_password: enter a valid password
+06:06:24 02::10::11 PM: INFO: loginPage: click_loginBtn: click on the login button
+06:06:24 02::10::11 PM: INFO: loginPage: click_loginBtn: click on the login button
+06:06:24 02::10::11 PM: INFO: loginPage: click_loginBtn: click on the login button
+06:06:24 02::10::25 PM: INFO: loginPage: enter_username: user name verification started
+06:06:24 02::10::25 PM: INFO: loginPage: enter_username: user name verification started
+06:06:24 02::10::25 PM: INFO: loginPage: enter_username: user name verification started
+06:06:24 02::10::25 PM: INFO: loginPage: enter_username: user clicked on the username field
+06:06:24 02::10::25 PM: INFO: loginPage: enter_username: user clicked on the username field
+06:06:24 02::10::25 PM: INFO: loginPage: enter_username: user clicked on the username field
+06:06:24 02::10::25 PM: INFO: loginPage: enter_username: enter the username
+06:06:24 02::10::25 PM: INFO: loginPage: enter_username: enter the username
+06:06:24 02::10::25 PM: INFO: loginPage: enter_username: enter the username
+06:06:24 02::10::25 PM: INFO: loginPage: enter_password: password verification is started
+06:06:24 02::10::25 PM: INFO: loginPage: enter_password: password verification is started
+06:06:24 02::10::25 PM: INFO: loginPage: enter_password: password verification is started
+06:06:24 02::10::26 PM: INFO: loginPage: enter_password: enter a valid password
+06:06:24 02::10::26 PM: INFO: loginPage: enter_password: enter a valid password
+06:06:24 02::10::26 PM: INFO: loginPage: enter_password: enter a valid password
+06:06:24 02::10::27 PM: INFO: loginPage: click_loginBtn: click on the login button
+06:06:24 02::10::27 PM: INFO: loginPage: click_loginBtn: click on the login button
+06:06:24 02::10::27 PM: INFO: loginPage: click_loginBtn: click on the login button
+06:06:24 02::10::32 PM: INFO: recruitmentTableVerification: recruitment_page_validation: recruitment page navigation is started
+06:06:24 02::10::32 PM: INFO: recruitmentTableVerification: recruitment_page_validation: recruitment page navigation is started
+06:06:24 02::10::32 PM: INFO: recruitmentTableVerification: recruitment_page_validation: recruitment page navigation is started
+06:06:24 02::10::35 PM: INFO: recruitmentTableVerification: recruitment_page_validation: user navigates to the recruitment page
+06:06:24 02::10::35 PM: INFO: recruitmentTableVerification: recruitment_page_validation: user navigates to the recruitment page
+06:06:24 02::10::35 PM: INFO: recruitmentTableVerification: recruitment_page_validation: user navigates to the recruitment page
+06:06:24 02::10::35 PM: INFO: recruitmentTableVerification: recruitment_page_validation: select the vacancies tab
+06:06:24 02::10::35 PM: INFO: recruitmentTableVerification: recruitment_page_validation: select the vacancies tab
+06:06:24 02::10::35 PM: INFO: recruitmentTableVerification: recruitment_page_validation: select the vacancies tab
+06:06:24 02::10::38 PM: INFO: recruitmentTableVerification: recruitment_page_validation: the job title is displayed
+06:06:24 02::10::38 PM: INFO: recruitmentTableVerification: recruitment_page_validation: the job title is displayed
+06:06:24 02::10::38 PM: INFO: recruitmentTableVerification: recruitment_page_validation: the job title is displayed
+06:06:24 02::10::38 PM: INFO: recruitmentTableVerification: recruitment_page_validation: table data is Vacancy
+Job Title
+Hiring Manager
+Status
+Actions
+gg
+Automaton Tester
+savina dulvin
+Active
+Junior Account Assistant
+Account Assistant (Deleted)
+(Deleted)
+Active
+Sales Representative
+Sales Representative
+(Deleted)
+Active
+Senior QA Lead
+QA Lead
+(Deleted)
+Active
+Senior Support Specialist
+Support Specialist
+(Deleted)
+Active
+Software Engineer
+Software Engineer
+(Deleted)
+Active
+test
+Account Assistant (Deleted)
+Rahul Patil
+Active
+06:06:24 02::10::38 PM: INFO: recruitmentTableVerification: recruitment_page_validation: table data is Vacancy
+Job Title
+Hiring Manager
+Status
+Actions
+gg
+Automaton Tester
+savina dulvin
+Active
+Junior Account Assistant
+Account Assistant (Deleted)
+(Deleted)
+Active
+Sales Representative
+Sales Representative
+(Deleted)
+Active
+Senior QA Lead
+QA Lead
+(Deleted)
+Active
+Senior Support Specialist
+Support Specialist
+(Deleted)
+Active
+Software Engineer
+Software Engineer
+(Deleted)
+Active
+test
+Account Assistant (Deleted)
+Rahul Patil
+Active
+06:06:24 02::10::38 PM: INFO: recruitmentTableVerification: recruitment_page_validation: table data is Vacancy
+Job Title
+Hiring Manager
+Status
+Actions
+gg
+Automaton Tester
+savina dulvin
+Active
+Junior Account Assistant
+Account Assistant (Deleted)
+(Deleted)
+Active
+Sales Representative
+Sales Representative
+(Deleted)
+Active
+Senior QA Lead
+QA Lead
+(Deleted)
+Active
+Senior Support Specialist
+Support Specialist
+(Deleted)
+Active
+Software Engineer
+Software Engineer
+(Deleted)
+Active
+test
+Account Assistant (Deleted)
+Rahul Patil
+Active
