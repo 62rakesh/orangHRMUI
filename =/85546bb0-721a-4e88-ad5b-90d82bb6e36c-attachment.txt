@@ -1,0 +1,9 @@
+[32mINFO    [0m root:loginPage.py:17 user name verification started
+[32mINFO    [0m root:loginPage.py:19 user clicked on the username field
+[32mINFO    [0m root:loginPage.py:21 enter the username
+[32mINFO    [0m root:loginPage.py:25 password verification is started
+[32mINFO    [0m root:loginPage.py:28 enter a valid password
+[32mINFO    [0m root:loginPage.py:33 click on the login button
+[32mINFO    [0m root:EnmergencyContactDetails.py:27 user profile verification started
+[32mINFO    [0m root:EnmergencyContactDetails.py:30 user navigates to the my profile page
+[32mINFO    [0m root:EnmergencyContactDetails.py:33 emergency contact verification is started

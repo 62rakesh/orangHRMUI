@@ -1,0 +1,12 @@
+[32mINFO    [0m root:loginPage.py:17 user name verification started
+[32mINFO    [0m root:loginPage.py:19 user clicked on the username field
+[32mINFO    [0m root:loginPage.py:21 enter the username
+[32mINFO    [0m root:loginPage.py:25 password verification is started
+[32mINFO    [0m root:loginPage.py:28 enter a valid password
+[32mINFO    [0m root:loginPage.py:33 click on the login button
+[32mINFO    [0m root:loginPage.py:66 parent page title is OrangeHRM
+[32mINFO    [0m root:loginPage.py:70 user clicked on the help button
+[32mINFO    [0m root:loginPage.py:76 child windows are E03B1A8D100E7277B3D92B8765C7B446
+[32mINFO    [0m root:loginPage.py:89 user navigates to the parent window
+[32mINFO    [0m root:loginPage.py:49 user clicked on the logout button
+[32mINFO    [0m root:loginPage.py:60 user logged out successfully
